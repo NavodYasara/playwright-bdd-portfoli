@@ -1,6 +1,6 @@
 # 🧪 EMS – Employee Management System (BDD Test Automation Portfolio)
 
-A full-stack web application built specifically to showcase **real-world, industry-standard test automation** using **Playwright** and **Behavior-Driven Development (BDD)**. This project demonstrates my practical ability to design, implement, and maintain a complete automation test suite for a production-style application.
+A full-stack web application built specifically to showcase **real-world, industry-standard test automation** using **Playwright** and **Behavior-Driven Development (BDD)**. 
 
 ---
 
