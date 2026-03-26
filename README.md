@@ -196,5 +196,3 @@ Open `http://localhost:5173` in your browser.
 | Drag & Drop Testing | React DnD Kanban board automated with Playwright |
 
 ---
-
-*Built as a portfolio project to demonstrate practical knowledge of industry-standard test automation, tooling, and architecture.*
